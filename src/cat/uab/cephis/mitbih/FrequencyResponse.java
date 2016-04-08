@@ -41,7 +41,7 @@ import static cat.uab.cephis.mitbih.ECGProcess.SELECT_VALUE;
 public class FrequencyResponse {
     public static void main(String[] args) 
     {
-	File dir = new File("C:\\Projects\\Doctorat\\INT_Papers\\03 Acc - 2014 BSPC - QRS Detector\\Freq Response");
+	File dir = new File("C:\\Projects\\Research\\INT_QRS\\Freq Response");
 	
 	generateMultipleExcels(dir);
 	//generateGnu3dplot(dir);
