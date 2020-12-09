@@ -1,4 +1,5 @@
 # MaMeMiFilter
+[![Published in Biomedical Signal Processing and Control](https://img.shields.io/badge/Published%20in-Biomedical%20Signal%20Processing%20and%20Control-blue)](https://doi.org/10.1016/j.bspc.2015.06.001)
 
 This work was used in the publication of "Simple real-time QRS detector with the MaMeMi filter"  available online on: http://www.sciencedirect.com/science/article/pii/S1746809415001032 
   
